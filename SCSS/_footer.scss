@@ -1,0 +1,8 @@
+@use 'variable' as *;
+
+
+.copyright {
+    border-top: 1px solid $neutral_300;
+    text-align: center;
+    color: $neutral_600;
+}
